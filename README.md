@@ -1,5 +1,7 @@
 # babel-plugin-transform-remove-export
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dleitee/babel-plugin-transform-remove-export.svg)](https://greenkeeper.io/)
+
 This plugin removes all `export` calls.
 
 ## Example
